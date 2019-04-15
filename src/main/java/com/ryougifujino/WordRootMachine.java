@@ -1,4 +1,4 @@
-package com.yuricompiler;
+package com.ryougifujino;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

@@ -1,4 +1,4 @@
-group 'yuri.compiler'
+group 'ryougi.fujino'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'

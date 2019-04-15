@@ -1,4 +1,4 @@
-package com.yuricompiler;
+package com.ryougifujino;
 
 import java.util.List;
 
